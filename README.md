@@ -1,4 +1,3 @@
-# Ivan-github.io
 # My top 3 favorite champions in league of legends
 # No 1 - AKALI
 ![AKALI](https://user-images.githubusercontent.com/102655245/160816170-1a2d6631-3864-4d5b-ac7b-d1aea7f4d370.jpg)
